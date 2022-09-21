@@ -2,7 +2,7 @@
   "tests": [
     {
       "name": "hw",
-      "setup": "javac HelloWorld.java",
+      "setup": "javac Main.java",
       "run": "java -classpath .:target/dependency/* Main",
       "input": "",
       "output": "Hello World",
